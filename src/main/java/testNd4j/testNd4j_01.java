@@ -1,7 +1,9 @@
+package testNd4j;
+
 import org.nd4j.linalg.api.ndarray.INDArray;
 import org.nd4j.linalg.factory.Nd4j;
 
-public class testNd4j {
+public class testNd4j_01 {
     public static void main(String[] args) {
         INDArray t1= Nd4j.ones(3,4);
         INDArray t2= Nd4j.zeros(3,4);
