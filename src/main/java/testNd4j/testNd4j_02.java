@@ -10,6 +10,7 @@ public class testNd4j_02 {
         INDArray t4=Nd4j.create(new double[][]{{1,2,3},{3,4,5},{1,2,3}});
         INDArray t5=t3.mmul(t4);
 
+
         System.out.println("\t -------T3---------");
         System.out.println(t3);
         System.out.println("\t -------T4---------");
