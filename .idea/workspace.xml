@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae027b4a-da67-44cf-bc62-c771cc456ca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNd4j/file.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ML_DL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,27 +64,23 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="y" value="-8" />
-    <option name="width" value="976" />
-    <option name="height" value="1056" />
-  </component>
   <component name="ProjectId" id="1cPqnnPdkUe3cFbsHt0Ed8LNTpt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590419346731" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/testNd4j" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -95,7 +93,7 @@
       <recent name="C:\Docs\deepleanring4j\TFJS_Projects\irisdl4j\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
+  <component name="RunManager" selected="Application.testNd4j_01">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="dl4j-iris-app" />
@@ -103,35 +101,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testNd4j_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testNd4j.testNd4j_04" />
-      <module name="iris-dl4j" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testNd4j.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="IrisClassifierApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IrisClassifierApp" />
+      <module name="ML_DL" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testNd4j_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testNd4j.testNd4j_05" />
-      <module name="iris-dl4j" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testNd4j.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="SimpleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleClassifier" />
+      <module name="ML_DL" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testNd4j_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testNd4j.testNd4j_06" />
-      <module name="iris-dl4j" />
+    <configuration name="testNd4j_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testNd4j.testNd4j_01" />
+      <module name="ML_DL" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="testNd4j.*" />
@@ -156,19 +142,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.testNd4j_04" />
-      <item itemvalue="Application.testNd4j_05" />
-      <item itemvalue="Application.testNd4j_06" />
-      <item itemvalue="Application.testNd4j_07" />
       <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.IrisClassifierApp" />
+      <item itemvalue="Application.SimpleClassifier" />
+      <item itemvalue="Application.testNd4j_01" />
+      <item itemvalue="Application.testNd4j_07" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testNd4j_01" />
+        <item itemvalue="Application.SimpleClassifier" />
+        <item itemvalue="Application.IrisClassifierApp" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.testNd4j_07" />
-        <item itemvalue="Application.testNd4j_06" />
-        <item itemvalue="Application.testNd4j_05" />
-        <item itemvalue="Application.testNd4j_04" />
       </list>
     </recent_temporary>
   </component>
@@ -266,6 +252,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding test Nd4j 02" />
@@ -279,10 +266,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="880" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1590441043877" />
-    <state x="1257" y="434" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1590440993564">
+    <state x="1257" y="434" width="380" height="352" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1590525764860">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1257" y="434" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590440993564" />
+    <state x="1257" y="434" width="380" height="352" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590525764860" />
+    <state x="664" y="299" key="FileChooserDialogImpl" timestamp="1590535092289">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="299" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590535092289" />
+    <state width="457" height="274" key="GridCell.Tab.0.bottom" timestamp="1590517853351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590517853351" />
+    <state width="457" height="274" key="GridCell.Tab.0.center" timestamp="1590517853351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590517853351" />
+    <state width="457" height="274" key="GridCell.Tab.0.left" timestamp="1590517853351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590517853351" />
+    <state width="457" height="274" key="GridCell.Tab.0.right" timestamp="1590517853351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590517853351" />
+    <state x="880" y="165" key="SettingsEditor" timestamp="1590535108970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590535108970" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
